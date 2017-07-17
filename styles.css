@@ -1,22 +1,25 @@
-.both{
-  width:9%
+body{
+	background-color: #232323;
 }
-.equal{
-  
-  width: ;
+
+.square{
+	width:30%;
+	background: purple;
+	padding-bottom:30%;
+	float: left;
+	margin: 1.66%;
 }
-.mult{
-  width:8.59%
+
+#container{
+	margin: 0 auto;
+	max-width:600px;
+
 }
-.div{
-  width:8.7%;
+
+h1{
+	color: white;
 }
-.sub{
-  width:8.75%;
-}
-.dot{
-  width:8.6%;
-}
-.plus{
-  width:8.49%;
+
+span{
+	color: white;
 }
